@@ -4,7 +4,7 @@ BASEDIR=`dirname $0`
 
 echo Base dir is $BASEDIR
 
-cd $BASEDIR/nko-xuka
+cd $BASEDIR
 
 git pull origin master
 git add -A
